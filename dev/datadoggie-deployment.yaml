@@ -25,7 +25,7 @@ spec:
         io.kompose.service: datadoggie
     spec:
       containers:
-        - image: 638173936794.dkr.ecr.us-east-1.amazonaws.com/datadoggie:kompose-9aaf3b3
+        - image: 638173936794.dkr.ecr.us-east-1.amazonaws.com/datadoggie:kompose-5218928
           name: datadoggie
           resources: {}
       imagePullSecrets:
